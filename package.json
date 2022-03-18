@@ -24,10 +24,9 @@
     "typescript",
     "javascript",
     "jest",
-    "boilerplate",
-    "rkoziol"
+    "boilerplate"
   ],
-  "author": "rkoziol",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rkoziol/react-typescript-jest-boilerplate/issues"
